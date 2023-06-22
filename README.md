@@ -12,9 +12,9 @@
 
 - 👍I'm proficient in various front-end frameworks like **React and Next**
 
-- 💻 My portfolio : [https://mahamafzaal.netlify.app](https://mahamafzaal.netlify.app)
-
 - 💬 Ask me anything about **React and Mui**
+
+- 💻 My portfolio : [https://mahamafzaal.netlify.app](https://mahamafzaal.netlify.app)
 
 - 📫 How to reach me **mahamafzaal45@gmail.com**
 
