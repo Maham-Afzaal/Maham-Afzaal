@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maham Afzaal</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align='right' width='400' alt='coding' src='https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif' />
+<img align='right' width='400' alt='coding' src='https://github.com/Maham-Afzaal/Maham-Afzaal/blob/main/BannerGitHUb.gif' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maham-afzaal&label=Profile%20views&color=0e75b6&style=flat" alt="maham-afzaal" /> </p>
 
