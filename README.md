@@ -10,7 +10,7 @@
 
 - 🤝🏽 I’m looking to collaborate on **Next Js**
 
-- 👍I'm proficient in various front-end frameworks like **React and Next**
+- 👍I'm proficient in various front-end frameworks like **Next and Bootstrap**
 
 - 💬 Ask me anything about **React and Mui**
 
